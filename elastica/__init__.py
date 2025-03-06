@@ -8,6 +8,7 @@ from elastica.rod.knot_theory import (
 )
 from elastica.rod.rod_base import RodBase
 from elastica.rod.cosserat_rod import CosseratRod
+from elastica.rod.deformed_rod import DeformedStraightRod
 from elastica.rigidbody.rigid_body import RigidBodyBase
 from elastica.rigidbody.cylinder import Cylinder
 from elastica.rigidbody.sphere import Sphere
